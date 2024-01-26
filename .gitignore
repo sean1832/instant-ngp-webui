@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+core/
+data/
+
+# instant-ngp
+imgui.ini

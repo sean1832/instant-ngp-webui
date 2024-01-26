@@ -1,0 +1,13 @@
+[project]
+name = "instant-ngp-webui"
+version = "0.0.1"
+description = "Instant NGP WebUI"
+authors = [{ name = "Zeke Zhang" }]
+dependencies = ["requests>=2.31.0", "streamlit==1.30.0"]
+readme = "README.md"
+license = { text = "Apache-2.0" }
+
+[project.urls]
+homepage = "https://github.com/sean1832/instant-ngp-webui"
+repository = "https://github.com/sean1832/instant-ngp-webui.git"
+issues = "https://github.com/sean1832/instant-ngp-webui/issues"
