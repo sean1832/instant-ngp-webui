@@ -8,4 +8,4 @@ if defined VIRTUAL_ENV (
     CALL venv\Scripts\activate.bat
 )
 
-python scripts/install.py
+python -m scripts.install
