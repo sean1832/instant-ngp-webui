@@ -22,7 +22,7 @@ The original project is a command line tool, which can be a bit intimidating for
 1. Clone this repository: 
 
 ```shell
-git clone https://github.com/sean1832/instant-ngp-gui.git
+git clone https://github.com/sean1832/instant-ngp-webui.git
 ```
 
 2. Run batch file: `gui.bat`
